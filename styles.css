@@ -21,6 +21,7 @@ body {
 .secondary-text {
   font-size: 18px;
   color: #E5E7EB;
+  margin: 0;
 }
 
 .nav-links {
@@ -46,7 +47,7 @@ a {
 }
 
 .a-content div {
-  flex: auto;
+  flex: 1;
 }
 
 .hero h1 {
@@ -55,7 +56,8 @@ a {
 }
 
 .a-img {
-  width: 600px;
-  background-color: #7d8291;
-  text-align: center;
+  background-color: #83858d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
