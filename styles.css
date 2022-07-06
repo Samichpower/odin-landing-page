@@ -111,15 +111,18 @@ a {
 
 .sect-c {
   background-color: #E5E7EB;
-  padding: 0 350px;
+  padding: 100px 350px;
   display: flex;
   flex-direction: column;
 }
 
 .quote {
-  font-size: ;
+  font-size: 36px;
+  margin: 0px;
 }
 
 .credit {
   align-self: flex-end;
+  font-size: 24px;
+  margin: 0;
 }
