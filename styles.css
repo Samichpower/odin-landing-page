@@ -119,6 +119,7 @@ a {
 .quote {
   font-size: 36px;
   margin: 0px;
+  font-style: italic;
 }
 
 .credit {
